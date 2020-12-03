@@ -11,3 +11,4 @@ Basic program for face swapping. Following steps are performed:
 7. Replace the face on the destination image
 8. Seamless Cloning
 
+The facial landmark file is availalbe at https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
